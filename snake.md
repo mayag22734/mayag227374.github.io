@@ -3,7 +3,7 @@
 **Project description:** This project uses a premade pygame version of snake to create an AI player utilizing various search algorithms. The algorithm used can be toggled in the SearchBasedPlayer class. Available algorithms are BFS, DFS, Heuristic, and A*.
 
 ### Implementation
-```Python
+```python
 #!/usr/bin/env python3
 from typing import List, Set
 from dataclasses import dataclass
