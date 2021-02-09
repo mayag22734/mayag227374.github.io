@@ -1,6 +1,6 @@
 ## Fuzzy Logic in Pong
 
-**Project description:** This student project involved implementation of basic image processing concepts such as morphological operations, filtering, and fourier transform and frequency-domain operations. The entire project is coded in basic Python from scratch, with all operations implemented manually using only the Pillow library for loading and saving images and Numpy for array operations and optimization. Each operation is functional for both grayscale and RGB images where appropriate and feasible within the scope of a student project. Be aware that the order of arguments determines the order of operations.
+**Project description:** This project uses skfuzzy to implement AI control over a pong player against a "naive" AI. This is done two ways, which can be controlled using a comment toggle, either using Mamdani's method or an approximation of TSK. Regardless of the method, the fuzzy AI will try to hit the ball in the corners so as to speed it up.
 
 ### Implementation
 
