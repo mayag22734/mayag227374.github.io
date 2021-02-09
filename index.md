@@ -20,7 +20,7 @@
 
 ---
 [Microcontroller Terminal](/minicom.md)
-<img src="images/minicom.png?raw=true"/>
+<img src="images/menu.png?raw=true"/>
 
 ---
 
