@@ -3,7 +3,7 @@
 **Project description:** Using PyQt5 and PyQtGraph, the entire program can be handled via GUI. Once the data (points with X,Y coordinates and an assigned class) is generated and the network configured, training can be done utilizing variable learning rate in 400-epoch chunks. The neural network is a very simple one consisting of one hidden layer with a variable number of neurons inside the hidden layer implemented using linear and activation layers and a sigmoid activation function.
 
 ### Implementation
-```Python
+```python
 import sys
 import PyQt5.QtWidgets as qtw
 from PyQt5.QtCore import Qt, QRectF
