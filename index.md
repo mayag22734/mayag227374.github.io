@@ -2,9 +2,9 @@
 
 ---
 
-### Python
+### Projects
 
-[Image Processing Operations](/im_proc.md)
+[Command-line Image Processing Operations](/im_proc.md)
 <img src="images/newSpectrum.bmp?raw=true"/>
 
 ---
