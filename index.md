@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Python
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Image Processing Operations](/im_proc)
+<img src="images/fourier.bmp?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
