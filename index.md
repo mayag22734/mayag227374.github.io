@@ -19,6 +19,10 @@
 [Fuzzy Logic in Pong](/pong.md)
 
 ---
+[Microcontroller Terminal](/minicom.md)
+<img src="images/minicom.png?raw=true"/>
+
+---
 
 [Pygame Sudoku](/sudoku.md)
 <img src="images/sudoku.PNG?raw=true"/>
