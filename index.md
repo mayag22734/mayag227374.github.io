@@ -9,15 +9,15 @@
 
 ---
 [Data Generator with Neural Network](/data_gen.md)
-<img src="images/AI_Network.jpg?raw=true"/>
+<img src="images/AI_Network.PNG?raw=true"/>
 
 ---
 [Search Algorithms in Snake](/snake.md)
-<img src="images/snake.jpg?raw=true"/>
+<img src="images/Snake.PNG?raw=true"/>
 
 ---
 [Fuzzy Logic in Pong](/pong.md)
-<img src="images/pong.jpg?raw=true"/>
+<img src="images/pong.PNG?raw=true"/>
 
 ---
 
