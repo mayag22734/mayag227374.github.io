@@ -20,6 +20,11 @@
 
 ---
 
+[Pygame Sudoku](/sudoku.md)
+<img src="images/sudoku.PNG?raw=true"/>
+
+---
+
 ### Web Development
 
 - [Project 1 Title](http://example.com/)
