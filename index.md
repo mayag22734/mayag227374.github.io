@@ -5,7 +5,7 @@
 ### Python
 
 [Image Processing Operations](/im_proc)
-<img src="images/fourier.bmp?raw=true"/>
+<img src="images/newSpectrum.bmp?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
