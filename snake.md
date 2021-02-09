@@ -1,6 +1,6 @@
 ## Search Algorithms in Snake
 
-**Project description:** This project uses a premade pygame version of snake to create an AI player utilizing various search algorithms. The algorithm used can be toggled in the SearchBasedPlayer class. Available algorithms are BFS, DFS, Heuristic, and A*.
+**Project description:** This project uses a premade pygame version of snake to create an AI player utilizing various search algorithms. The algorithm used can be toggled in the SearchBasedPlayer class. Available algorithms are BFS, DFS, Heuristic, and A*. Dark blue squares represent tiles explored by the algorithm, yellow the goal, and red obstacles which will reduce the player's score.
 
 ### Implementation
 ```python
