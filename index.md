@@ -13,11 +13,11 @@
 
 ---
 [Search Algorithms in Snake](/snake.md)
-<img src="images/Snake.PNG?raw=true"/>
+<img src="images/Snake.png?raw=true"/>
 
 ---
 [Fuzzy Logic in Pong](/pong.md)
-<img src="images/pong.PNG?raw=true"/>
+<img src="images/pong.png?raw=true"/>
 
 ---
 
