@@ -1,7 +1,7 @@
 ## Microcontroller Terminal
 
 **Project description:** This project interfaces with an emulated (due to distance learning) AT91SAM9263 microcontroller. Using the minicom terminal, it allows users to input commands based on a simple hierarchical menu system. Example commands include turning on or off LEDs, blinking LEDs for 5 seconds, getting DBGU status, or setting the buttons.
-
+ 
 ### Implementation
 
 ```c
