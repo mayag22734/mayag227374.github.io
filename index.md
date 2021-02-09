@@ -17,7 +17,6 @@
 
 ---
 [Fuzzy Logic in Pong](/pong.md)
-<img src="images/pong.png?raw=true"/>
 
 ---
 
