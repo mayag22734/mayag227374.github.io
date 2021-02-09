@@ -3,7 +3,7 @@
 **Project description:** This student project involved implementation of basic image processing concepts such as morphological operations, filtering, and fourier transform and frequency-domain operations. The entire project is coded in basic Python from scratch, with all operations implemented manually using only the Pillow library for loading and saving images and Numpy for array operations and optimization. Each operation is functional for both grayscale and RGB images where appropriate and feasible within the scope of a student project. Be aware that the order of arguments determines the order of operations.
 
 ### Implementation
-```Python
+```python
 import sys, getopt
 from PIL import Image
 import numpy as np
