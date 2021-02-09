@@ -4,20 +4,24 @@
 
 ### Python
 
-[Image Processing Operations](/im_proc)
+[Image Processing Operations](/im_proc.md)
 <img src="images/newSpectrum.bmp?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Data Generator with Neural Network](/data_gen.md)
+<img src="images/AI_Network.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Search Algorithms in Snake](/snake.md)
+<img src="images/snake.jpg?raw=true"/>
+
+---
+[Fuzzy Logic in Pong](/pong.md)
+<img src="images/pong.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Web Development
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
